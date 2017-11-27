@@ -76,8 +76,24 @@
           52.401178429602275
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "name": "Rummers",
+        "description": "Lots of live music",
+        "creator": "Colin Sauze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.085932374000549,
+          52.411686737000544
+        ]
+      }
     }
-    
-
   ]
 }
