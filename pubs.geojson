@@ -39,5 +39,25 @@
       }
     }      
 
+
+ {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "PD's diner",
+        "creator": "Colin Sauze",
+        "description": "Try the BBQ Sausage melt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.084500074386597,
+          52.41738655278803
+        ]
+      }
+    }
+
   ]
 }
