@@ -17,7 +17,29 @@
           -4.083437919616699,
           52.41604510100933
         ]
+      },
+      
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Sophies",
+        "creator": "Colin Sauze",
+        "description": "Good cooked breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0822577476501465,
+          52.4152598420086
+        ]
       }
+    }      
+      
+      
     }
   ]
 }
