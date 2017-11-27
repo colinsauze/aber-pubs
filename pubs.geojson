@@ -1,25 +1,4 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "cafe",
-        "creator": "Colin Sauze",
-        "name": "Coffee #1",
-        "description": "Long Queues, good coffee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.083437919616699,
-          52.41604510100933
-        ]
-      }
-    },
-    
+{   
     {
       "type": "Feature",
       "properties": {
@@ -58,25 +37,7 @@
         ]
       }
     },
-    
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "restaurant",
-        "name": "Chipbox",
-        "description": "They have shops everywhere",
-        "creator": "Colin Sauze"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.072633981704712,
-          52.401178429602275
-        ]
-      }
-    },
+
     {
       "type": "Feature",
       "properties": {
