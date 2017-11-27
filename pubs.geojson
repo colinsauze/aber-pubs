@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "creator": "Colin Sauze",
+        "name": "Coffee #1",
+        "description": "Long Queues, good coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.083437919616699,
+          52.41604510100933
+        ]
+      }
+    }
+  ]
+}
