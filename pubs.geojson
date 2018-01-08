@@ -79,4 +79,25 @@
   ]
 }
   ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "Name": "Ship and Castle",
+        "Description": "Real Ales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.086838960647583,
+          52.41325409617546
+        ]
+      }
+    }
+  ]
+
 }
