@@ -92,27 +92,7 @@
           52.41325409617546
         ]
       }
-    },
-    
-    {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Name": "Pier Hotel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.086731672286986,
-          52.4152598420086
-        ]
-      }
-    },
+    }
     
     ]
 
