@@ -58,23 +58,7 @@
         ]
       }
     },
-    
-    
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#134fea",
-        "marker-size": "medium",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0856534242630005,
-          52.415135508051215
-        ]
-      }
-    },
+   
     
     {
       "type": "Feature",
@@ -108,7 +92,3 @@
         ]
       }
     }
-    
-    ]
-
-}
