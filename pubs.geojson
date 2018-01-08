@@ -76,8 +76,24 @@
           52.41325409617546
         ]
       }
-    }
+    },
     
     ]
 
-}
+  {
+"type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Scholars",
+        "description": "carvery Sundays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.081200957298279,
+          52.41667329814224
+        ]
+      }
+    }
