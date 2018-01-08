@@ -65,7 +65,8 @@
       "properties": {
         "marker-color": "#134fea",
         "marker-size": "medium",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "name": "Harleys"
       },
       "geometry": {
         "type": "Point",
