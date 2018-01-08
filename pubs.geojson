@@ -58,65 +58,25 @@
         ]
       }
     },
-
-{
+    {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#134fea",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "Name": "Pier Hotel"
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.086731672286986,
-          52.4152598420086
+          -4.0856534242630005,
+          52.415135508051215
         ]
       }
     }
   ]
-
- "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Baravin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.084510803222656,
-          52.417026655096805
-        ]
-      }
-    }
-  ]
-
- "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Baravin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.084510803222656,
-          52.417026655096805
-        ]
-      }
-    }
+}
   ]
 }
