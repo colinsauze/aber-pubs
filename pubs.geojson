@@ -92,6 +92,21 @@
           52.41325409617546
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c96c1",
+        "marker-size": "medium",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.084398150444031,
+          52.4170593731901
+        ]
+      }
     }
     
     ]
