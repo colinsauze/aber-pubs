@@ -4,5 +4,4 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
 "geometry": { "type": "Point", "coordinates": [-4.0822577476501465,52.4152598420086] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Rummers", "creator" : "Colin Sauze", "comment" : "live music and open late" },
-"geometry": { "type": "Point", "coordinates": [-4.085932374000549,52.411686737000544] } }
 ] }
