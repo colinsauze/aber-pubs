@@ -13,6 +13,8 @@
 "geometry": { "type": "Point", "coordinates": [-4.084009230136871,52.41649334675313] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Glengower", "creator" : "Colin Sauze", "comment" : "good view and burgers" },
 "geometry": { "type": "Point", "coordinates": [-4.08441424369812,52.42076944750934] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Cocktail bar", "name": "Libertine's", "creator" : " Jess Friedersdorff", "comment" : " excellent cocktails" },
+"geometry": { "type": "Point", "coordinates": [-4.084553718566894,52.416620948722965] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Rummers", "creator" : "Melanie Prentice", "comment" : "gin night" },
 "geometry": { "type": "Point", "coordinates": [-4.085948467254639,52.41171945905572] } }
 ] }
