@@ -2,5 +2,11 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Wetherspoons", "creator" : "Colin Sauze", "comment" : "cheap drinks" },
 "geometry": { "type": "Point", "coordinates": [-4.081528186798096,52.414068839171215] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
-"geometry": { "type": "Point", "coordinates": [-4.0822577476501465,52.4152598420086] } }
+"geometry": { "type": "Point", "coordinates": [-4.0822577476501465,52.4152598420086] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Scholar's", "creator" : "Jess Friedersdorff", "comment" : "good pizzas" },
+"geometry": { "type": "Point", "coordinates": [ -4.0821826457977295,52.41726876841243] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Art's Centre", "creator" : "Colin Sauze", "comment" : "very expensive" },
+"geometry": { "type": "Point", "coordinates": [-4.062752723693848,52.41582097642882] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Royal Pier", "creator" : "Melanie Prentice", "comment" : "good view" },
+"geometry": { "type": "Point", "coordinates": [-4.087761640548706,52.415809524777316] } }
 ] }
