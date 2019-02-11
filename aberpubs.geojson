@@ -2,5 +2,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Wetherspoons", "creator" : "Colin Sauze", "comment" : "cheap drinks" },
 "geometry": { "type": "Point", "coordinates": [-4.081528186798096,52.414068839171215] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
-"geometry": { "type": "Point", "coordinates": [-4.0822577476501465,52.4152598420086] } }
+"geometry": { "type": "Point", "coordinates": [-4.08225774765014,52.41525984200] } }
 ] }
