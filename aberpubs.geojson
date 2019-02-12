@@ -15,6 +15,8 @@
 "geometry": { "type": "Point", "coordinates": [ -4.086219370365143,52.414845939449] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resturaunt", "name": "Royal Pier", "creator" : " Azam Nekoo", "comment" : " dinners" },
 "geometry": { "type": "Point", "coordinates": [ -4.087836742401123, 52.415927313050645] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " restaurant", "name": "Ultra comida", "creator" : " Alex", "comment" : " Tapas" },
+"geometry": { "type": "Point", "coordinates": [ -4.0865868, 52.41506] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " bar", "name": "Scholars'", "creator" : " Adam Price", "comment" : " quiet enough to play chess" },
 "geometry": { "type": "Point", "coordinates": [ -4.081010520458221, 52.41655878370687] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " bar", "name": "Arts Centre", "creator" : " Adam Price", "comment" : " where everybody actually plays chess" },
@@ -22,7 +24,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "stick", "name": "Pen Dinas Fort", "creator" : "Gabe Muro", "comment" : " nice view" },
 "geometry": { "type": "Point", "coordinates": [-4.082375764846802,52.402896713951165] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Coffee#1", "creator" : " suvarna", "comment" : " portugese tart" },
-"geometry": { "type": "Point", "coordinates": [ -4.0837, 52.4161] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " bar", "name": "Glengower", "creator" : " Azam", "comment" : " good to play chess and dart" },
-"geometry": { "type": "Point", "coordinates": [ -4.087836742401123,52.415927313050645] } }
+"geometry": { "type": "Point", "coordinates": [ -4.0837, 52.4161] } }
 ] }
