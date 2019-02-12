@@ -2,5 +2,17 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Wetherspoons", "creator" : "Colin Sauze", "comment" : "cheap drinks" },
 "geometry": { "type": "Point", "coordinates": [-4.0815281867980,52.4140688391712] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
-"geometry": { "type": "Point", "coordinates": [-4.08225774765014,52.415259842] } }
+"geometry": { "type": "Point", "coordinates": [-4.08225774765014,52.415259842] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "pub", "name": "Ship and Castle", "creator" : "Carole", "comment" : " nice ciders" },
+"geometry": { "type": "Point", "coordinates": [-4.086710214614868,52.41309703555428] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Gabe Muro", "name": "Cledwyn G24", "creator" : "i drink where i want", "comment" : "-4.067162275314331" },
+"geometry": { "type": "Point", "coordinates": [52.41699066516612,] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Caffi Tan", "creator" : "Colin Sauze", "comment" : "nice sandwiches" },
+"geometry": { "type": "Point", "coordinates": [-4.085433483123779,52.40967101159238] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "", "name": "", "creator" : "", "comment" : "" },
+"geometry": { "type": "Point", "coordinates": [,] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resturaunt", "name": "Royal Pier", "creator" : " Azam Nekoo", "comment" : " dinners" },
+"geometry": { "type": "Point", "coordinates": [,] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " 52.415927313050645", "name": "-4.087836742401123", "creator" : "", "comment" : "" },
+"geometry": { "type": "Point", "coordinates": [,] } }
 ] }
