@@ -16,7 +16,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " takeaway", "name": "fusion king", "creator" : " suvarna", "comment" : " udon noodles" },
 "geometry": { "type": "Point", "coordinates": [ -4.086219370365143,52.414845939449] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resturaunt", "name": "Royal Pier", "creator" : " Azam Nekoo", "comment" : " dinners" },
-"geometry": { "type": "Point", "coordinates": [ -4.087836742401123, 52.415927313050645] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "", "name": "", "creator" : "", "comment" : "" },
-"geometry": { "type": "Point", "coordinates": [,] } }
+"geometry": { "type": "Point", "coordinates": [ -4.087836742401123, 52.415927313050645] } }
 ] }
