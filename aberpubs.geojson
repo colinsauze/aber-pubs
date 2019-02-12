@@ -15,6 +15,10 @@
 "geometry": { "type": "Point", "coordinates": [ -4.086219370365143,52.414845939449] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resturaunt", "name": "Royal Pier", "creator" : " Azam Nekoo", "comment" : " dinners" },
 "geometry": { "type": "Point", "coordinates": [ -4.087836742401123, 52.415927313050645] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Coffee#1", "creator" : " suvarna", "comment" : " portugese tart" },
+"geometry": { "type": "Point", "coordinates": [ -4.0837, 52.4161] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " bar", "name": "Glengower", "creator" : " Azam", "comment" : " good to play chess and dart" },
+"geometry": { "type": "Point", "coordinates": [ -4.087836742401123,52.415927313050645] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Scholars", "creator" : "Adam Price", "comment" : " quiet upstairs" },
 "geometry": { "type": "Point", "coordinates": [ -4.0806,52.4163] } }
 ] }
