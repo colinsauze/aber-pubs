@@ -10,5 +10,9 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Caffi Tan", "creator" : "Colin Sauze", "comment" : "nice sandwiches" },
 "geometry": { "type": "Point", "coordinates": [-4.085433483123779,52.40967101159238] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "", "name": "", "creator" : "", "comment" : "" },
+"geometry": { "type": "Point", "coordinates": [,] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resturaunt", "name": "Royal Pier", "creator" : " Azam Nekoo", "comment" : " dinners" },
+"geometry": { "type": "Point", "coordinates": [,] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " 52.415927313050645", "name": "-4.087836742401123", "creator" : "", "comment" : "" },
 "geometry": { "type": "Point", "coordinates": [,] } }
 ] }
