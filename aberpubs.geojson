@@ -1,6 +1,8 @@
 { "type": "FeatureCollection", "features": [
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
 "geometry": { "type": "Point", "coordinates": [-4.08225774765014,52.415259842] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "pub", "name": "White Bear", "creator" : "Chris Wright", "comment" : "good cider selection" },
+"geometry": { "type": "Point", "coordinates": [-2.60158,51.46034] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Old College", "creator" : "Colin", "comment" : "university catering" },
 "geometry": { "type": "Point", "coordinates": [-4.08848,52.41472] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Cube", "creator" : "Ben Winter", "comment" : "Sticky floors" },
