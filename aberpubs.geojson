@@ -1,12 +1,14 @@
 { "type": "FeatureCollection", "features": [
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Rhossili cafe", "creator" : "Thomas Spriggs", "comment" : "garbage wifi but unreal scenes" },
+"geometry": { "type": "Point", "coordinates": [51.5661,-4.2963] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
 "geometry": { "type": "Point", "coordinates": [-4.08225774765014,52.415259842] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "pub", "name": "White Bear", "creator" : "Chris Wright", "comment" : "good cider selection" },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "White Bear", "creator" : "Chris Wright", "comment" : "good cider selection" },
 "geometry": { "type": "Point", "coordinates": [-2.60158,51.46034] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Old College", "creator" : "Colin", "comment" : "university catering" },
 "geometry": { "type": "Point", "coordinates": [-4.08848,52.41472] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Cube", "creator" : "Ben Winter", "comment" : "Sticky floors" },
 "geometry": { "type": "Point", "coordinates": [-4.122925400733947,53.229095400662345] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " bar", "name": "Downies", "creator" : " Tonicha", "comment" : " Cheap but grim" },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Downies", "creator" : " Tonicha", "comment" : " Cheap but grim" },
 "geometry": { "type": "Point", "coordinates": [ -4.08594,52.41492] } }
 ] }
