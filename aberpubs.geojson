@@ -1,4 +1,6 @@
 { "type": "FeatureCollection", "features": [
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
-"geometry": { "type": "Point", "coordinates": [-4.08225774765014,52.415259842] } }
+"geometry": { "type": "Point", "coordinates": [-4.08225774765014,52.415259842] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " pub", "name": "Downies", "creator" : " Tonicha", "comment" : " Cheap but grim" },
+"geometry": { "type": "Point", "coordinates": [ -4.08594,52.41492] } }
 ] }
