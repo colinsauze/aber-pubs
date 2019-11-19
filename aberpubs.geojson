@@ -12,5 +12,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "Downies", "creator" : " Tonicha", "comment" : " Cheap but grim" },
 "geometry": { "type": "Point", "coordinates": [ -4.08594,52.41492] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "spoons", "creator" : "cory", "comment" : "its spoons" },
-"geometry": { "type": "Point", "coordinates": [-4.08163,52.140] } }
+"geometry": { "type": "Point", "coordinates": [-4.08163,52.4140] } }
 ] }
