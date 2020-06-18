@@ -1,6 +1,20 @@
 { "type": "FeatureCollection", "features": [
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
 "geometry": { "type": "Point", "coordinates": [-4.08225,52.41525] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "", "name": "", "creator" : "", "comment" : "" },
-"geometry": { "type": "Point", "coordinates": [,] } }
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Jose Munoz", "name": "Central Bar", "creator" : " Nice central pub", "comment" : "-3.1727564" },
+"geometry": { "type": "Point", "coordinates": [51.4831668,] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Coin Sauze", "name": "Bwlch Nant-yr-Arian", "creator" : "nice cafe and walks", "comment" : "-3.88576" },
+"geometry": { "type": "Point", "coordinates": [52.415272,] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "pub", "name": "Holly Bush", "creator" : "Hannah Hendry", "comment" : "great pub" },
+"geometry": { "type": "Point", "coordinates": [-1.8687513470649717,52.21586695734793] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Anna Loka", "creator" : " Adelina", "comment" : " nice vegan food" },
+"geometry": { "type": "Point", "coordinates": [ -3.16416,51.49410] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " restaurant", "name": "The Pot", "creator" : " Natalie", "comment" : " nice food" },
+"geometry": { "type": "Point", "coordinates": [ -3.188340, 51.501240] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " pub", "name": "Cedar Tree Farm", "creator" : " Maxim Filimonov", "comment" : " good beer" },
+"geometry": { "type": "Point", "coordinates": [ -3.18383, 51.45509] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " pub", "name": "Hobgoblin", "creator" : " Gilda Padalino", "comment" : " good beer" },
+"geometry": { "type": "Point", "coordinates": [ -2.5917, 51.4720] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "Alvaro Garcia", "name": "Bottle and Barrel", "creator" : "Craft beer", "comment" : "-4.082763" },
+"geometry": { "type": "Point", "coordinates": [52.415139,] } }
 ] }

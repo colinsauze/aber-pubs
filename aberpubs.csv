@@ -1,5 +1,10 @@
 name,symbol,creator,comments,lon,lat
 Sophie's,cafe,Colin Sauze,good cooked breakfasts,-4.08225,52.41525
+<<<<<<< HEAD
+=======
+Central Bar,pub, Jose Munoz, Nice central pub,-3.1727564,51.4831668
+Birrificio Finalese,pub,Michele Mesiti,good beers,8.345264, 44.16951
+>>>>>>> 809966c406c326104f9530a554ac8485b76027df
 Central Bar, Jose Munoz, Nice central pub,-3.1727564,51.4831668
 Bwlch Nant-yr-Arian, Coin Sauze,nice cafe and walks,-3.88576,52.415272
 Holly Bush,pub,Hannah Hendry,great pub,-1.8687513470649717,52.21586695734793
