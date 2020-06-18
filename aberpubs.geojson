@@ -28,5 +28,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " bar", "name": "Heathcock", "creator" : " Hannah Hendry", "comment" : " good food" },
 "geometry": { "type": "Point", "coordinates": [ -3.2228028774261475, 51.49654089357593] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " bar", "name": "Pier 64", "creator" : " Jun", "comment" : " good vier" },
-"geometry": { "type": "Point", "coordinates": [ -3.1751346588134766, 51.44373668041614] } }
+"geometry": { "type": "Point", "coordinates": [ -3.1751346588134766, 51.44373668041614] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Ikea", "creator" : "David Hodgkinson", "comment" : "Free coffee for members" },
+"geometry": { "type": "Point", "coordinates": [-3.188771,-3.188771] } }
 ] }
