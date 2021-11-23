@@ -25,9 +25,6 @@ jobs:
 
       - name: Convert CSV to geojson
         run: bash ./csvtogeojson.sh aberpubs.csv aberpubs.geojson
-
-      - name: switching from HTTPS to SSH
-        run: git remote set-url origin ${{ secrets.ssh }}
       - name: commit changed files
         run: git commit -m "Auto update of map" aberpubs.geojson
       - name: push code to master
