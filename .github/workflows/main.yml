@@ -27,7 +27,7 @@ jobs:
         run: bash ./csvtogeojson.sh aberpubs.csv aberpubs.geojson
       - name: Setup author details
         run: | 
-               git config --global user.email "nobody@nowhere.com"
+               git config --global user.email "bot@csv.to.geo.json"
                git config --global user.name "csv2geojson bot" 
       - name: commit changed files
         run: git commit -m "Auto update of map" aberpubs.geojson
