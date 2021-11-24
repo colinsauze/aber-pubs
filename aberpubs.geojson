@@ -5,10 +5,12 @@
 "geometry": { "type": "Point", "coordinates": [-4.081978,52.414381] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "cafe", "creator" : "Dan", "comment" : "Coffee" },
 "geometry": { "type": "Point", "coordinates": [-4.081970,52.414380] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resaurant", "name": "Marine hotel", "creator" : " luke", "comment" : " grey tea" },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resaurant", "name": "Marine hotel", "creator" : " luke", "comment" : " grey tea but nice sausages" },
 "geometry": { "type": "Point", "coordinates": [ -4.084173, 52.418663] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Dragonfly Bistro", "creator" : " Myles", "comment" : " good vegan options including cake" },
 "geometry": { "type": "Point", "coordinates": [-4.086902,52.413587] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Bar", "name": "Castle", "creator" : " Sam Hennessey", "comment" : " One of the better bars in bangor" },
-"geometry": { "type": "Point", "coordinates": [ -5.667880, 54.657180] } }
+"geometry": { "type": "Point", "coordinates": [ -5.667880, 54.657180] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Bar", "name": "Castle", "creator" : " Dan", "comment" : " actually in aber" },
+"geometry": { "type": "Point", "coordinates": [ -4.081970,52.414400] } }
 ] }
