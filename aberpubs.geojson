@@ -1,6 +1,8 @@
 { "type": "FeatureCollection", "features": [
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts and burgers" },
 "geometry": { "type": "Point", "coordinates": [-4.08225,52.415250] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "pub", "name": "pier pub", "creator" : "Dan", "comment" : "nice view" },
+"geometry": { "type": "Point", "coordinates": [-4.0822,52.415255] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Express Cafe", "creator" : "Vlad", "comment" : "black pudding" },
 "geometry": { "type": "Point", "coordinates": [-4.081978,52.414381] } }
 ] }
