@@ -4,5 +4,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Express Cafe", "creator" : "Vlad", "comment" : "black pudding" },
 "geometry": { "type": "Point", "coordinates": [-4.081978,52.414381] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resaurant", "name": "Marine hotel", "creator" : " luke", "comment" : " grey tea" },
-"geometry": { "type": "Point", "coordinates": [ 52.418663, -4.084173] } }
+"geometry": { "type": "Point", "coordinates": [ -4.084173, 52.418663] } }
 ] }
