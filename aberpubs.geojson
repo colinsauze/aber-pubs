@@ -1,4 +1,4 @@
 { "type": "FeatureCollection", "features": [
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts and burgers" },
 "geometry": { "type": "Point", "coordinates": [-4.08225,52.415250] } }
 ] }
