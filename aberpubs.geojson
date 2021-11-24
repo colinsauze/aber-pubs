@@ -1,15 +1,10 @@
 { "type": "FeatureCollection", "features": [
-<<<<<<< HEAD
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts and burgers" },
-"geometry": { "type": "Point", "coordinates": [-4.08225,52.415250] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "pub", "name": "pier pub", "creator" : "Dan", "comment" : "nice view" },
-"geometry": { "type": "Point", "coordinates": [-4.0822,52.415255] } },
-=======
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Sophie's", "creator" : "Colin Sauze", "comment" : "good cooked breakfasts" },
 "geometry": { "type": "Point", "coordinates": [ milkshakes and burgers,-4.082250] } },
->>>>>>> 8f3129939a199ac337f861604367f1d69607d7f9
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "Express Cafe", "creator" : "Vlad", "comment" : "black pudding" },
 "geometry": { "type": "Point", "coordinates": [-4.081978,52.414381] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "cafe", "creator" : "Dan", "comment" : "Coffee" },
+"geometry": { "type": "Point", "coordinates": [-4.081970,52.414380] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " resaurant", "name": "Marine hotel", "creator" : " luke", "comment" : " grey tea" },
 "geometry": { "type": "Point", "coordinates": [ -4.084173, 52.418663] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Bar", "name": "Castle", "creator" : " Sam Hennessey", "comment" : " One of the better bars in bangor" },
