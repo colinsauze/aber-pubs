@@ -1,4 +1,4 @@
-name,symbol,creator,comments,lon,lat
+sname,symbol,creator,comments,lon,lat
 Sophie's,cafe,Colin Sauze,good cooked breakfasts milkshakes and burgers,-4.082250,52.415250
 Express Cafe,cafe,Vlad,black pudding,-4.081978,52.414381
 cafe,cafe,Dan,Coffee,-4.081970,52.414380
@@ -6,3 +6,4 @@ Marine hotel, resaurant, luke, grey tea but nice sausages, -4.084173, 52.418663
 Dragonfly Bistro, cafe, Myles, good vegan options including cake,-4.086902,52.413587
 Bar Uno, Bar, Sam, Dan works here, -4.138059894398083,53.2269728298928
 Castle, Bar, Dan, actually in aber, -4.081970,52.414400
+The Two Hoots, Cafe, Colin, good sandwiches, -3.854604,52.376295
