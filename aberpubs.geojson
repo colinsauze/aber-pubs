@@ -22,7 +22,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Resturant", "name": "Little Italy", "creator" : " Sama", "comment" : " Really good Italian food" },
 "geometry": { "type": "Point", "coordinates": [ -4.081400, 52.415770] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Bar", "name": "Kanes Bar", "creator" : " Tanya", "comment" : " Nice bar" },
-"geometry": { "type": "Point", "coordinates": [ -4.082920, 52.415302] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "", "name": "", "creator" : "", "comment" : "" },
-"geometry": { "type": "Point", "coordinates": [,] } }
+"geometry": { "type": "Point", "coordinates": [ -4.082920, 52.415302] } }
 ] }
