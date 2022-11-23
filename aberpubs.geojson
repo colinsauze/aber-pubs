@@ -13,6 +13,14 @@
 "geometry": { "type": "Point", "coordinates": [ -4.138059894398083,53.2269728298928] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Bar", "name": "Castle", "creator" : " Dan", "comment" : " actually in aber" },
 "geometry": { "type": "Point", "coordinates": [ -4.081970,52.414400] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "<<<<<<< HEAD", "name": "<<<<<<< HEAD", "creator" : "<<<<<<< HEAD", "comment" : "<<<<<<< HEAD" },
+"geometry": { "type": "Point", "coordinates": [<<<<<<< HEAD,<<<<<<< HEAD] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "The White Horse", "creator" : " Luke", "comment" : " Good food and chill" },
+"geometry": { "type": "Point", "coordinates": [ -4.0840, 52.4161] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "=======", "name": "=======", "creator" : "=======", "comment" : "=======" },
+"geometry": { "type": "Point", "coordinates": [=======,=======] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Resturant", "name": "Little Italy", "creator" : " Sama", "comment" : " Really good Italian food" },
-"geometry": { "type": "Point", "coordinates": [ -4.081400, 52.415770] } }
+"geometry": { "type": "Point", "coordinates": [ -4.081400, 52.415770] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": ">>>>>>> 6566566daa69cd0f22b217791c71c0435606f86f", "name": ">>>>>>> 6566566daa69cd0f22b217791c71c0435606f86f", "creator" : ">>>>>>> 6566566daa69cd0f22b217791c71c0435606f86f", "comment" : ">>>>>>> 6566566daa69cd0f22b217791c71c0435606f86f" },
+"geometry": { "type": "Point", "coordinates": [>>>>>>> 6566566daa69cd0f22b217791c71c0435606f86f,>>>>>>> 6566566daa69cd0f22b217791c71c0435606f86f] } }
 ] }
